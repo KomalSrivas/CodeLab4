@@ -74,4 +74,4 @@ Understand whether you have to create a network that allows the consumer to list
 
 No hard-coded dependencies
 
-http://localhost:80 wshows a formatted meal recommendation with an associated price.
+http://localhost:80 shows a formatted meal recommendation with an associated price.
